@@ -1,20 +1,9 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Banner_github_psakftupr" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggcr4OUDbRd4TWlumypA-8C3vad_ol14gt4e4rkidSHL4ZSdPdbJcfIL6BSvs3bnjwZUBuuP5PmMhOmmUeksX2KUzvFI_1n_3kxKSiyD1DgvVKAH6BDJPY_09dquYc_fs_VYshQwDPaSU2X3LWW1kZc3q6qysaa9r6bfm2nGB6e_T84WDa_AsIOLXTNtE/w640-h253/banner_github_psakftupr.png" />
+" />
 </div>
 
-# Run and deploy your AI Studio app
+Project ini dibuat dengan vibe conding menggunakan ai studio by google.
+Ini hanya proyek learning untuk latihan menggunakan teknologi dalam pelayanan organisasi mahasiswa kristen di universitas.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ad18b2ea-c7de-40b4-992c-06037e2902a6
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Terima Kasih.
